@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhiozdanApp", "GhiozdanApp\GhiozdanApp.csproj", "{9F7C477C-FBA2-4501-ADFB-25DE08D75EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7C477C-FBA2-4501-ADFB-25DE08D75EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7C477C-FBA2-4501-ADFB-25DE08D75EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7C477C-FBA2-4501-ADFB-25DE08D75EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7C477C-FBA2-4501-ADFB-25DE08D75EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4593208B-9C0A-456C-97E7-01EBC9109A32}
+	EndGlobalSection
+EndGlobal
